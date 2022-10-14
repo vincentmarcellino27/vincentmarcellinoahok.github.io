@@ -1,0 +1,252 @@
+body{
+    background-color: bisque;
+}
+*{
+    padding: 0px;
+    margin: 0px;
+    text-decoration: none;
+}
+ul {
+    color: rgb(113, 18, 18);
+    font-size: 20px;
+    padding: 0px;
+    
+}
+li{
+display: inline-block;
+
+}
+.li1{
+   color: black;
+   font-size: 20px;
+}
+.li2{
+color: black;
+text-decoration: none;
+font-size: 18px;
+}
+.li3{
+  color: white;
+  border: 5px solid red;
+  border-radius: 30px;
+  background-color: red;
+}
+.li4{
+  color: white;
+  border: 5px solid rgb(196, 39, 39);
+  border-radius: 30px;
+  background-color: rgb(196, 39, 39);
+}
+div.gallery0 {
+  margin: 5px;
+  border: 1px solid white;
+  float: left;
+  width: 600px;
+  height: 420px;
+  background-color: white;
+  border-radius: 10px;
+}
+
+div.gallery0:hover {
+  border: 1px solid white;
+}
+
+div.gallery0 img {
+  width: 600px;
+  height: 300px;
+  right: 200px;
+  
+  
+}
+
+div.descA {
+  padding: 15px;
+  text-align: left;
+  font-size: 30px;
+}
+div.desc2{
+  padding: 5px;
+  text-align: left;
+  
+  
+}
+
+div.gallery1 {
+  margin: 5px;
+  border: 1px solid white;
+  float: right;
+  width: 550px;
+  height: 430px;
+  position: absolute;
+  top: 57px;
+  right: 40px;
+  background-color: white;
+  border-radius: 10px;
+}
+
+div.gallery1:hover {
+  border: 1px solid white;
+}
+
+div.gallery1 img {
+  width: 550px;
+  height: 305px;
+  
+}
+
+div.descB {
+  padding: 10px;
+  text-align: left;
+  font-size: 20px;
+  
+}
+div.desc4{
+  padding: 5px;
+  text-align: left;
+  font-size: 14px;
+}
+div.desc5{
+  padding: 5px;
+  text-align: right;
+}
+.link1{
+  border: 1px solid red; 
+  border-radius: 30px;
+  padding: 5px;
+  color: red;
+  background-color: white;
+  
+}
+
+div.gallery2 {
+  margin: 5px;
+  border: 1px solid white;
+  float: left;
+  width: 600px;
+  position: absolute;
+  bottom: -270px;
+  background-color: white;
+  border-radius: 10px;
+  
+}
+
+div.gallery2:hover {
+  border: 1px solid white;
+}
+
+div.gallery2 img {
+  width: 600px;
+  height: 230px;
+  
+  
+}
+
+div.descC {
+  padding: 15px;
+  text-align: left;
+  font-size: 25px;
+}
+div.desc10 {
+  padding: 5px;
+  text-align: right;
+}
+.link2{
+  border: 1px solid red;
+  border-radius: 30px;
+  padding: 5px;
+  color: red;
+  background-color: white;
+}
+
+div.gallery3 {
+  margin: 5px;
+  border: 1px solid white ;
+  float: right;
+  width: 600px;
+  height: -317px;
+  position: absolute;
+  top: 500px;
+  bottom: -250px;
+  right: 10px;
+  background-color: white;
+  border-radius: 10px;
+ 
+}
+
+div.gallery3:hover {
+  border: 1px solid white;
+}
+
+div.gallery3 img {
+  width: 600px;
+  height: 200px;
+  bottom: 20px;
+  
+}
+
+div.descD {
+  padding: 15px;
+  text-align: left;
+  font-size: 20px;
+}
+div.desc11 {
+  text-align: justify;
+}
+div.desc12 {
+  text-align: justify;
+}
+div.desc13 {
+  text-align: justify;
+}
+div.desc14 {
+  text-align: right;
+}
+.link3{
+  border: 1px solid red;
+  border-radius: 30px;
+  padding: 5px;
+  color: red;
+  background-color: white;
+}
+div.gallery4 {
+  margin: 5px;
+  border: 1px solid white;
+  float: center;
+  position: absolute;
+  width: 700px;
+  bottom: -700px;
+  right: 300px;
+}
+
+div.gallery4:hover {
+  border: 1px solid white;
+}
+
+div.gallery4 img {
+  width: 300px;
+  height: 300px;
+  
+}
+
+div.desc15 {
+  padding: 10px;
+  text-align: right;
+  top: 70px;
+  float: right;
+  font-size: 28px;
+}
+div.desc16 {
+  text-align: right;
+  right: -30px;
+}
+div.desc17{
+  
+  text-align: right;
+}
+div.desc18{
+  text-align: right;
+}
+.table{
+  position: absolute;
+  bottom: -800px;
+}
